@@ -1,4 +1,4 @@
-name: Switch Node version
+name: Switch Node version 2
 on: 
   workflow_dispatch:
   pull_request:
